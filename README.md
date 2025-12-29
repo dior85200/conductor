@@ -109,7 +109,7 @@
   <h3>🪧 其他</h3>
   <ul>
     <li><label><input type="checkbox"><span>舉牌</span></label></li>
-    <li><label><input type="checkbox"><span>車次條（遊覽車公司準備）</span></label></li>
+    <li><label><input type="checkbox"><span>消毒酒精*2 (前後門各準備一支）</span></label></li>
   </ul>
 
   <h3>✅ 最終確認</h3>
